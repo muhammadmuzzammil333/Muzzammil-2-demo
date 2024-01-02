@@ -1,0 +1,11 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 4870d55..0fdbc8b 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1,2 +1,4 @@[m
+ <h1>Muhammad Muzzammil</h1>[m
+[31m-<p>My name is Muhammad Muzzammil. I am 17 year old. My father name is Abdul Hafeez.</p>[m
+\ No newline at end of file[m
+[32m+[m[32m<p>My name is Muhammad Muzzammil. I am 17 year old. My father name is Abdul Hafeez.</p>[m
+[32m+[m[32m<h2>Muhammad Muzzammil</h2>[m
+[32m+[m[32m<p>My name is Muhammad Muzzammil. I am 17 year old. My father name is Abdul Hafeez.</p>[m
